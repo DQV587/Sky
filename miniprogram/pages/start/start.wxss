@@ -1,0 +1,43 @@
+div{
+    height: 100 rpx;
+    width: 400 rpx;
+    background-color: #ededed;
+}
+.welcome{
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    align-items: center;
+}
+.father00{
+    margin-top: 20rpx;
+    width: 100 rpx;
+    height: 400 rpx;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.father01{
+    margin-top: 40rpx;
+    /* width: 200 rpx;
+    height: 400 rpx; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
+}
+.father02{
+    margin-top: 200rpx;
+    /* width: 200 rpx;
+    height: 400 rpx; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(199, 209, 206);
+}
+button{
+    width: 300 rpx;
+}

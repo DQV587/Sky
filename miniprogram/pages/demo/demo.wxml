@@ -1,0 +1,2 @@
+<button size="mini" type="default" bindtap="onAdd">新增记录</button>
+<text class="p" wx:if="{{counterId}}">新增的记录 _id 为：{{counterId}}</text>

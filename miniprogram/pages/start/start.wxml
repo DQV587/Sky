@@ -1,0 +1,18 @@
+<view class="father00">
+    <div class="welcome">欢迎使用天际快递管理系统</div>
+</view>
+
+<view class="father01">
+    <button type="primary" form-type="submit" bindtap="navitologin">
+    登陆</button>
+</view>
+
+<view class="father01">
+    <button type="primary" form-type="submit" bindtap="navitoreg">
+    注册</button>
+</view>
+
+<view class="father02">
+    <button type="default" form-type="submit" bindtap="navitoabout">
+    关于我们</button>
+</view>

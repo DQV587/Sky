@@ -1,0 +1,23 @@
+<text>\n\n</text>
+
+<view class="father00">
+    <div class="welcome">欢迎来到主页面!</div>
+    <text>\n</text>
+    <div class="welcome">此处可以进行查询取件</div>
+</view>
+
+
+<text>\n\n\n\n</text>
+
+
+<view class="father01">
+    <button type="primary" form-type="submit" bindtap="navitorequ">
+    查询</button>
+</view>
+
+<view class="father01">
+    <button type="primary" form-type="submit" bindtap="navitocomm">
+    取件</button>
+</view>
+
+

@@ -1,0 +1,13 @@
+<view id="total">
+<form bindsubmit="create_update">
+<view id="t1">
+<text>账号</text><input type="text" name="username" id="use" placeholder="输入您的账号" value="{{username}}"></input>
+</view>
+<view id="t2">
+<text>新密码</text><input type="password" name="password" id="pass1" placeholder="输入新的密码" value="{{password}}"></input>
+</view>
+
+<button bindtap="goto_index" id="btn1" form-type="submit"><text>确认更改</text></button>
+</form>
+
+</view>

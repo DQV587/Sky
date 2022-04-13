@@ -1,0 +1,12 @@
+<!--index.wxml-->
+<!-- 货物展示容器 -->
+<view class="good-container">
+  <!-- 货物单元区域 -->
+  <view class="box" wx:for="{{goodList}}" wx:key="index" data-id="{{item._id}}" bindtap="showGoodIntro">
+    <!-- 货物封面 -->
+    <!-- <image src="{{item.coverurl}}"></image> -->
+    <!-- 货物标题 -->
+    <text>{{item.userId}}</text>
+  </view>
+
+</view>

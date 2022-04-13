@@ -1,0 +1,19 @@
+.about01{
+    display: flex;
+    justify-content: center;
+}
+.image{
+    display:flex;
+    justify-content: center; 
+    align-items:center;
+
+
+}
+.div{
+    display:flex;
+    justify-content: center;
+}
+block{
+    width: 200rpx;
+    height: 200rpx;
+}
